@@ -2,7 +2,7 @@
   "version": "1.0.28",
   "title": "Aether 1.0.28",
   "url": "https://github.com/Sqikpeek/aether-updates/releases/download/v1.0.28/Aether.zip",
-  "sha256": "ЗДЕСЬ_ДОЛЖЕН_БЫТЬ_ХЕШ_ИЗ_POWERSHELL",
+  "sha256": "AFE4648386DCF0ACD95B12B02076E562FDF0A6176D9712DEFED51A15F7FD0221",
   "size": 24850000,
   "changes": ["Обновление через GitHub"]
 }
