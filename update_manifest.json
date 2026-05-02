@@ -1,7 +1,7 @@
 {
   "version": "1.0.28",
   "title": "Aether 1.0.28",
-  "url": "https://github.com/Sqikpeek/aether-updates.git",
+  "url": "https://github.com/Sqikpeek/aether-updates/releases/download/v1.0.28/Aether.zip",
   "sha256": "ЗДЕСЬ_ДОЛЖЕН_БЫТЬ_ХЕШ_ИЗ_POWERSHELL",
   "size": 24850000,
   "changes": ["Обновление через GitHub"]
