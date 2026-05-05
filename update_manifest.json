@@ -2,7 +2,7 @@
   "version": "1.0.31",
   "title": "Aether 1.0.31",
   "notes": "Auto-update restart fix, hidden update installer, safer update package handling, container version picker fixes, and distinct red/purple themes.",
-  "url": "https://raw.githubusercontent.com/Sqikpeek/aether-updates/main/Aether.zip",
+  "url": "https://github.com/Sqikpeek/Aether/releases/download/v1.0.31/Aether.zip",
   "size": 40997190,
   "sha256": "e3864cbfd1a85979316f4534c1d0134ed34a3cf70c62bfea27b28cee4601f3c3",
   "changes": [
