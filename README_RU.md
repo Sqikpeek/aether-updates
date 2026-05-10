@@ -6,6 +6,7 @@ Aether Launcher - лаунчер Minecraft с контейнерами, уста
 
 - GitHub: https://github.com/Sqikpeek/Aether
 - Releases: https://github.com/Sqikpeek/Aether/releases
+- Aether Installer: https://github.com/Sqikpeek/Aether/releases/tag/Launcher
 - Скачать установщик: откройте последнюю версию в Releases и скачайте `Aether Installer.exe`
 - Скачать пакет обновления: в последнем релизе используется `Aether Update.zip`
 
